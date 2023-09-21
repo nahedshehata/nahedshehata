@@ -1,4 +1,4 @@
-## Hi there ,I'm Nahed Said 👋
+<h1 align="center">Hi 👋, I'm Nahed Said</h1>
 <img src="https://media3.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif"  width="30px" height ="30px">&nbsp;***About me ....***
 ###### A Computer Science Graduate with a B+ grade ,I am currently enhancing my skills in Back-End using PHP (laravel freamwork).
 
