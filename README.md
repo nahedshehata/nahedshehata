@@ -11,8 +11,6 @@
 <hr>
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nahedshehata&show_icons=true&locale=en&layout=compact" alt="nahedshehata" />
-  <div style="margin-left: 20px;"></div> <!-- Adjust the margin as needed -->
+  <div style="margin-left: 15px;"></div> <!-- Adjust the margin as needed -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahedshehata" alt="nahedshehata" />
 </div>
-
-
