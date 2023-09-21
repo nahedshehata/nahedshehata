@@ -10,6 +10,6 @@
 
 <hr>
 <div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nahedshehata&show_icons=true&locale=en&layout=compact" alt="nahedshehata" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahedshehata&" alt="nahedshehata" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nahedshehata&show_icons=true&locale=en&layout=compact" alt="nahedshehata" />     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahedshehata&" alt="nahedshehata" />
 </div>
 
